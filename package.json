@@ -16,29 +16,30 @@
   "author": "Lily Simmons",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "^4.1.0",
-    "nodemon": "^1.18.7"
+    "concurrently": "^4.1.2",
+    "nodemon": "^1.19.4"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "classnames": "^2.2.6",
     "cors": "^2.8.5",
     "dotenv": "^7.0.0",
-    "express": "^4.16.3",
+    "express": "^4.17.1",
     "if-env": "^1.0.4",
-    "mongoose": "^5.3.16",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-router-dom": "^5.0.0",
+    "mongodb": "^3.3.3",
+    "mongoose": "^5.7.7",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "^2.1.8",
-    "react-toastify": "^5.0.1"
+    "react-toastify": "^5.4.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lilysimmons/google-books-search"
+    "url": "git+https://github.com/ghawthorne66/bookstore"
   },
   "bugs": {
-    "url": "https://github.com/lilysimmons/google-books-search/issues"
+    "url": "https://github.com/ghawthorne66/bookstore/issues"
   },
-  "homepage": "https://github.com/lilysimmons/google-books-search#readme"
+  "homepage": "https://github.com/ghawthorne66/bookstore/blob/master/README.md"
 }
